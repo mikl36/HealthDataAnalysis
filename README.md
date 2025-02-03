@@ -1,1 +1,1 @@
-# Health data analysis, a course project / testing, a classifier for person's health status, a simple testing (simplistic data, etc.) at the moment, logistic regression, decision tree, random forest
+# This project, Health Data Analysis, is a course project focused on testing a classifier for determining a person's health status. Currently, it involves simple testing with simplistic data. The methods employed include logistic regression, decision tree, and random forest algorithms.
