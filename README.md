@@ -1,4 +1,5 @@
-# This project, Health Data Analysis, is a course project focused on testing a classifier for determining a person's health status. Currently, it involves simple testing with simplistic data. The methods employed include logistic regression, decision tree, and random forest algorithms.
+# Health Data Analysis, is a course project focused on testing a classifier(s) for determining a person's health status. 
+Currently, it involves simple testing with simplistic data. The methods employed include logistic regression, decision tree, and random forest algorithms.
 
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/eb986b16-3149-4664-a087-7016ee93b30b" />
 
